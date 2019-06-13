@@ -12,7 +12,7 @@ namespace ComicBookGallary.Models
         public int IssueNumber { get; set; }
         public string DescriptionHtml { get; set; }
         public Artist[] Artists { get; set; }
-        public bool Favoraite { get; set; }
+        public bool Favorite { get; set; }
 
         public string DisplayText
         {

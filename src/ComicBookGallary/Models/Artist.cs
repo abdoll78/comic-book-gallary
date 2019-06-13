@@ -8,6 +8,6 @@ namespace ComicBookGallary.Models
     public class Artist
     {
         public string Name { get; set; }
-        public string Rule { get; set; }
+        public string Role { get; set; }
     }
 }
